@@ -1,6 +1,6 @@
 #!/bin/bash
 
-STUDENT_NAME="Priyanjal Rathore"
+STUDENT_NAME="Prafull Baghel"
 SOFTWARE="Git"
 
 echo "===== Open Source Audit ====="
